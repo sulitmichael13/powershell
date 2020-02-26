@@ -1,0 +1,1 @@
+﻿Get-Process | Stop-Process -WhatIf
