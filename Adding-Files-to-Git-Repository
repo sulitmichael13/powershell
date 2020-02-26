@@ -1,0 +1,17 @@
+#save repository to github using powershell
+
+#save your file from your git repository from your local computer
+#go to your powershell folder directory from your local computer
+
+	C~ C:\Users\michael.sulit\Documents\Powershell Tutorial Scriptiong\powershell
+	
+#git status : to check your files that will be added to your github repository
+	if there are files that will be updated from the list
+	
+#git add .\Get-Process-Script.ps1 : this command is to add your files from the git repository
+	then "git status" again
+	then you can see the new file that you added from your git repository
+	
+#git commit -Message 'My Get-Process-Script' : this command is to add a string if you want to add description from your script file
+	then "git status" again
+#git push : to update your git repository after you add a files.
