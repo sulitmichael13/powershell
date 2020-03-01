@@ -1,0 +1,1 @@
+﻿'RS1','RS2','RS3' | % {New-Item -Name ".\data\$_" -ItemType 'Directory'}
